@@ -20,3 +20,5 @@
 
 ## Create negative data
 - 본 예제에서는 기존의 data x에다, y label을 [code] rnd = torch.randperm(x.size(0)) 로 섞어서 줌으로써 negative data를 만들었다.
+
+[참고 github](https://github.com/mohammadpz/pytorch_forward_forward)
